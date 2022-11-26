@@ -1,0 +1,45 @@
+**{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+    font-size: 18pt;
+}
+
+.container{
+    border: double 22px red;
+    width: 400px;
+    padding: 30px;
+}
+
+#n1{
+    background-color: yellow;
+    font-size: 18pt;
+    border: solid 1px black;
+    margin: 3px;
+}
+
+#n2{
+    background-color: yellow;
+    font-size: 18pt;
+    border: solid 1px black;
+    margin: 3px;
+}
+
+#seletores{
+    padding: 15px;
+}
+
+#result{
+
+    background-color: yellow;
+    font-size: 18pt;
+    border: solid 1px black;
+    margin: 3px;
+}
+
+#btn{
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 3px;
+}
+
